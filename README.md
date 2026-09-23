@@ -1,5 +1,7 @@
 # pure-output-skill 纯净输出
 
+[中文](README.md) | [English](README.en.md)
+
 这是一个文案优化的skill。
 
 解决
